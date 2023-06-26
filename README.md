@@ -1,19 +1,23 @@
 # Consumir-una-API-RESTful-enformato-JSON-en-Android
-Consumir una API RESTful en formato JSON en Android
+***
+
+Implementar una aplicación nativa Android que muestre la información de una API RESTful en formato JSON  https://dummyjson.com/users
+Puede usar cualquiera de las 3 librerías vista en clases: Google Volley, HttpRequest o Retrofit
+
+
+## Pantalla de inicio
+***
+
+Se colocado dentro de la pantalla de inicio un botón que pueda cargar los usuarios.
+![Pantalla de inicio](inicio.png)
+
+## Listado de los usuario de la API mencionada
+***
+
+![Listado de usuarios](usuarios.png)
 
 
 
-
-## Formulario
-![Texto alternativo](formulario.png)
-
-## Validación con Toast
-![Texto alternativo](Validaciones.png)
-
-## Pantalla de carga de datos
-![Texto alternativo](datos_cargados.png)
-
-La aplicacián también borra los campos, precionando el boton "Limpiar campos"
 
 
 
